@@ -12,6 +12,7 @@
 	<artifactId>big-papa</artifactId>
 	<version>1.0.0</version>
 	<name>big-papa</name>
+	<packaging>pom</packaging>
 	<description>Demo parent project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
